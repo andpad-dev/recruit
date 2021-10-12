@@ -17,6 +17,7 @@
 * [エンジニアインタビュー](https://www.wantedly.com/stories/s/ANDPAD_Engineers)
 
 ### 執筆記事・メンバーインタビュー
+* `古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
 * `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
 * `VPoE下司` [「なくてはならない」を いかにつくるか](https://recruit.andpad.co.jp/member/05.html)
 * `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
