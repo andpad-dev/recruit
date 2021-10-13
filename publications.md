@@ -17,8 +17,7 @@
 * [エンジニアインタビュー](https://www.wantedly.com/stories/s/ANDPAD_Engineers)
 
 ### 執筆記事・メンバーインタビュー
-* `古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
-* `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
+* `テックリード古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
 * `VPoE下司` [「なくてはならない」を いかにつくるか](https://recruit.andpad.co.jp/member/05.html)
 * `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
 * `CDO山下`  [IT業界の進歩が、建築・建設業界の進歩に繋がる](https://recruit.andpad.co.jp/member/04.html)
@@ -33,10 +32,10 @@
 * `EM早田`  [建築業界を本気で変えたい。だから謙虚に学び続ける——建築SaaS「ANDPAD」のエンジニア組織](https://findy-code.io/pick-up/interviews/andpad-engineer)
 * `EM早田`  [Wantedlyプロフィール](https://www.wantedly.com/id/daisuke_hayata)
 * `EM櫻井`  [技術だけじゃない、コミュニケーションも大切にする理由](https://www.wantedly.com/companies/andpad/post_articles/341185)
-* `EM櫻井`  [Wantedlyプロフィー](https://www.wantedly.com/id/kenji_sakurai)
+* `EM櫻井`  [Wantedlyプロフィール](https://www.wantedly.com/id/kenji_sakurai)
 * `EM荒瀧`  [エンジニアは「システム」も「幸せ」も築く。組織への興味が生まれた道筋](https://www.wantedly.com/companies/andpad/post_articles/350074)
 * `EM荒瀧`  [Wantedlyプロフィール](https://www.wantedly.com/id/yu_arataki_ap)
-* `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
+* `EM荒瀧`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 * `EM石井`  [Wantedlyプロフィール](https://www.wantedly.com/id/motohirock)
 * `アプリエンジニア工藤`  [第38回ASK「Androidエンジニアがアンドパッドに入社すると面白い理由」](https://note.com/andpad_hr/n/n108960a02663)
 * `アプリエンジニア工藤`  [Androidエンジニアからモバイルエンジニアへ。Flutter開発を拓いたエンジニアが抱くユーザー課題解決への想い。](https://www.wantedly.com/companies/andpad/post_articles/351596)
