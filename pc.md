@@ -1,11 +1,11 @@
-# 支給PCのスペック表
+# エンジニア支給PCのスペック表
 
 | | Mac-1 | Mac-2 | Windows |
 |----|----|----|----|
-|CPU|第9世代の2.6GHz 6コアIntel Core i7プ‍ロ‍セッサ（Turbo Boost使用時最大4.5GHz）|第10世代の2.3GHzクアッドコアIntel Core i7プロセッサ（Turbo Boost使用時最大4.1GHz）|クアッドコア 第 10 世代 Intel® Core™ i7-1065G7 プロセッサー|
-|メモリ|32GB|32GB|32GB|
-|ディスク|1TB SSD| 1TB SSD| 512GB SSD|
-|大きさ|16インチ|13インチ|13.5インチ|
+|CPU|10コアCPU、24コアGPU（M1 Max）|10コアCPU、16コアGPU（M1 Pro）|クアッドコア 第 10 世代 Intel® Core™ i7-1065G7 プロセッサー|
+|メモリ|32GB|16GB|32GB|
+|ディスク|512GB SSD| 512GB SSD| 512GB SSD|
+|大きさ|14インチ|16インチ|13.5インチ|
 |色|スペースグレイ|スペースグレイ| - |
 |キーボード| US or JIS | US or JIS | - |
 |シリーズ| MacBookPro | MacBookPro | Surface Book 3|
