@@ -9,6 +9,7 @@
 ### 自社運営メディア
 * [エンジニア採用サイト](https://engineer.andpad.co.jp/)
 * [アンドパッド採用サイト](https://recruit.andpad.co.jp/)
+* [2023新卒 新卒エンジニア採用サイト](https://engineer2023.andpad.co.jp/)
 * [TechBlog](https://tech.andpad.co.jp/)
 * [Speaker Deck](https://speakerdeck.com/andpad)
 * [YouTube](https://www.youtube.com/playlist?list=PLApU0jUJ3KKLCdyOTkoiC3ccUSGg9qQ-3)
