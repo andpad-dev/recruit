@@ -22,7 +22,7 @@
 * `テックリード古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
 * `テックリード古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
 * `テックリード古橋（秒速）` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
-* `テックリード古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来(https://tech.andpad.co.jp/entry/2021/10/29/170000)
+* `テックリード古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `VPoE下司` [「なくてはならない」を いかにつくるか](https://recruit.andpad.co.jp/member/05.html)
 * `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
 * `VPoE下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
