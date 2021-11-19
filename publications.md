@@ -18,9 +18,11 @@
 * [エンジニアインタビュー](https://www.wantedly.com/stories/s/ANDPAD_Engineers)
 
 ### 執筆記事・メンバーインタビュー
+* `CTO金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `テックリード古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
 * `テックリード古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
 * `テックリード古橋（秒速）` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
+* `テックリード古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `VPoE下司` [「なくてはならない」を いかにつくるか](https://recruit.andpad.co.jp/member/05.html)
 * `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
 * `VPoE下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
@@ -30,6 +32,7 @@
 * `CDO山下`  [テクノロジーで1日の業務を3時間削減。紙とFAXからの脱却を図る建築SaaSの挑戦](https://flxy.jp/article/8523)
 * `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
 * `CDO山下`  [【オンラインCTO対談 アンドパッド×キャディ】巨大市場に挑むテクノロジー組織のスケールアウト](https://www.youtube.com/watch?v=sNjtu9EHFwA)
+* `テックリード佐藤（tricknotes）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `EM多田`  [Wantedlyプロフィール](https://www.wantedly.com/id/shinya_td)
 * `EM土方`  [アンドパッド EMインタビュー](https://tech.andpad.co.jp/entry/2020/09/04/173751)
 * `EM土方`  [エンジニアマネージャーはなりたくてなってない！「やりたいこと」を続けた先にある役割とは？](https://engineer-lab.findy-code.io/em-nyumon)
@@ -45,8 +48,10 @@
 * `EM荒瀧`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 * `EM荒瀧`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
 * `EM石井`  [Wantedlyプロフィール](https://www.wantedly.com/id/motohirock)
+* `サーバーサイドエンジニア金近`  [ANDPAD TECH TALK 第4回 - 創業メンバーから見た現在のアンドパッド](https://tech.andpad.co.jp/entry/2021/11/09/121000)
 * `アプリエンジニア工藤`  [第38回ASK「Androidエンジニアがアンドパッドに入社すると面白い理由」](https://note.com/andpad_hr/n/n108960a02663)
 * `アプリエンジニア工藤`  [Androidエンジニアからモバイルエンジニアへ。Flutter開発を拓いたエンジニアが抱くユーザー課題解決への想い。](https://www.wantedly.com/companies/andpad/post_articles/351596)
+* `CRE杉本（mayuzo）`  [これができたら一人前！アンドパッドCREへの期待値と業務での工夫](https://tech.andpad.co.jp/entry/2021/11/05/140000)
 * `アプリエンジニア伊藤`  [React Native経験者がFlutterをさわってみた](https://tech.andpad.co.jp/entry/2020/02/12/114953)
 * `VPoP山口`  [成長余地しかない、そこで何を描くのか](https://recruit.andpad.co.jp/member/06.html)
 * `VPoP山口`  [日本の住宅建築業界の変革に挑む。顧客と直に接し、高い解像度で現場を理解、課題解決のプロダクトを創る。](https://eng.kandc.com/interview/007/)
@@ -60,6 +65,7 @@
 * [Ruby on Rails コミッターの松田 明氏が株式会社オクトの技術顧問に就任](https://lp.andpad.jp/157/)
 
 ### 事業
+* [建設業界全体のデジタル化を推進する建設DXプラットフォーム「ANDPADアプリマーケット」を公開](https://andpad.co.jp/news/524/)
 * [J-Startup2021に選出されました](https://www.j-startup.go.jp/news/news_211020.html)
 * [建築×テクノロジーに加わるなら、今が最高に面白い。アンドパッド・今井亮介が語る「コンテック」の現在と未来](https://blog.allstarsaas.com/posts/andpad-interview-20201211)
 * [世界有数の投資家も注目　アンドパッドが描く「インダストリークラウドの未来」](https://forbesjapan.com/articles/detail/39666)
