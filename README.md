@@ -23,10 +23,11 @@
 
 ## 求人情報
 
-* [リクルートLP](https://recruit.andpad.co.jp/)
-* [現在募集中の求人](https://hrmos.co/pages/andpad/jobs?category=1400453786062708736)
+- [リクルート LP](https://recruit.andpad.co.jp/)
+- [現在募集中の求人](https://hrmos.co/pages/andpad/jobs?category=1400453786062708736)
 
 ## コンテンツ
 
-* [支給マシンについて](./pc.md)
-* [リンク集](./publications.md)
+- [開発者向け社内制度について](./in-company-system.md)
+- [支給マシンについて](./pc.md)
+- [リンク集](./publications.md)
