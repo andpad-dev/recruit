@@ -23,7 +23,7 @@
 
 ## 求人情報
 
-- [リクルート LP](https://recruit.andpad.co.jp/)
+- [リクルート LP](https://andpad.co.jp/recruit/)
 - [現在募集中の求人](https://hrmos.co/pages/andpad/jobs?category=1400453786062708736)
 
 ## コンテンツ

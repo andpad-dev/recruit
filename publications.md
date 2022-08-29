@@ -8,7 +8,7 @@
 
 ### 自社運営メディア
 * [エンジニア採用サイト](https://engineer.andpad.co.jp/)
-* [アンドパッド採用サイト](https://recruit.andpad.co.jp/)
+* [アンドパッド採用サイト](https://andpad.co.jp/recruit/)
 * [2023新卒 新卒エンジニア採用サイト](https://engineer2023.andpad.co.jp/)
 * [TechBlog](https://tech.andpad.co.jp/)
 * [Speaker Deck](https://speakerdeck.com/andpad)
@@ -23,12 +23,10 @@
 * `テックリード古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
 * `テックリード古橋（秒速）` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
 * `テックリード古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
-* `VPoE下司` [「なくてはならない」を いかにつくるか](https://recruit.andpad.co.jp/member/05.html)
 * `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
 * `VPoE下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
 * `VPoE下司`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
 * `VPoE下司` [ 「半径数メートルから幸せの連鎖を生み出す」アンドパッド VPoE 下司 宜治 氏の事業成長のための決断 ]( https://evange.jp/n/n9c3b10503acd )
-* `CDO山下`  [IT業界の進歩が、建築・建設業界の進歩に繋がる](https://recruit.andpad.co.jp/member/04.html)
 * `CDO山下`  [エンジニア的思考をもって、Vertical SaaSのトップ集団を駆け抜ける](https://engineer.andpad.co.jp/interviewone)
 * `CDO山下`  [テクノロジーで1日の業務を3時間削減。紙とFAXからの脱却を図る建築SaaSの挑戦](https://flxy.jp/article/8523)
 * `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
@@ -68,7 +66,6 @@
 * `CRE杉本（mayuzo）`  [これができたら一人前！アンドパッドCREへの期待値と業務での工夫](https://tech.andpad.co.jp/entry/2021/11/05/140000)
 * `CRE杉本（mayuzo）`  [ 次世代のエンジニア職だからできた「CRE」の定義。アンドパッドのCREは誰よりも「ANDPAD」を愛している。 ]( https://www.wantedly.com/companies/andpad/post_articles/370616 )  
 * `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )  
-* `HR中野`  [自分で開拓できる未来がある](https://recruit.andpad.co.jp/member/21.html)
 * `HR中野`  [ASK第35回　エンジニア採用担当から見えるアンドパッド開発組織の強さ](https://www.youtube.com/watch?v=vhoEbbMBcvY)
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 
