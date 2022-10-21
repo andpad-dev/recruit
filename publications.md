@@ -27,6 +27,7 @@
 * `VPoE下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
 * `VPoE下司`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
 * `VPoE下司` [ 「半径数メートルから幸せの連鎖を生み出す」アンドパッド VPoE 下司 宜治 氏の事業成長のための決断 ]( https://evange.jp/n/n9c3b10503acd )
+* `VPoE下司` [ アンドパッド×ベルフェイス×タイミー CTO・VPoE勉強会 ]( https://www.wantedly.com/companies/forstartups/post_articles/419125 )
 * `CDO山下`  [エンジニア的思考をもって、Vertical SaaSのトップ集団を駆け抜ける](https://engineer.andpad.co.jp/interviewone)
 * `CDO山下`  [テクノロジーで1日の業務を3時間削減。紙とFAXからの脱却を図る建築SaaSの挑戦](https://flxy.jp/article/8523)
 * `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
@@ -51,6 +52,7 @@
 *  `EM外山`  [ エンタメからVertical SaaSへ。アンドパッドEMが大切にするサーバントリーダーシップとエンジニアの個性 ]( https://www.wantedly.com/companies/andpad/post_articles/388156 )  
 * `組織戦略責任者 米山`  [ ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」 ]( https://www.wantedly.com/companies/andpad/post_articles/391067 )  
 * `組織戦略責任者 米山`  [ エンジニア自ら「一緒に働きたいメンバー探し」を。 アンドパッドとLayerXが取り組むエンジニア採用と組織づくり ]( https://engineering-org.findy-teams.com/posts/andpad-layerx/ )
+*  `組織戦略責任者 米山×技術広報エンジニア鳩` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
 * `テックリード金近`  [ANDPAD TECH TALK 第4回 - 創業メンバーから見た現在のアンドパッド](https://tech.andpad.co.jp/entry/2021/11/09/121000)
 *  `テックリード須貝`  [ データドリブン経営を支援！データ基盤チームを立ち上げたデータエンジニアが描く「建設業×データの民主化」の未来。 ]( https://www.wantedly.com/companies/andpad/post_articles/365538)  
 * `テックリード浅葉`  [ 【アンドパッド 浅葉氏】建設×DXを下支えする「仕組み作り」のプロフェショナル ]( https://note.com/forstartups_ep/n/n7d9522889dc7 )
@@ -86,7 +88,6 @@
 ### 事業
 * [建設業界全体のデジタル化を推進する建設DXプラットフォーム「ANDPADアプリマーケット」を公開](https://andpad.co.jp/news/524/)
 * [J-Startup2021に選出されました](https://www.j-startup.go.jp/news/news_211020.html)
-* [建築×テクノロジーに加わるなら、今が最高に面白い。アンドパッド・今井亮介が語る「コンテック」の現在と未来](https://blog.allstarsaas.com/posts/andpad-interview-20201211)
 * [世界有数の投資家も注目　アンドパッドが描く「インダストリークラウドの未来」](https://forbesjapan.com/articles/detail/39666)
 * [「幸せを築く人を、幸せに」建築産業のDXを推進する、アンドパッドの思い](https://forbesjapan.com/articles/detail/36108)
 * [ユニコーンへ邁進！｢建設DXベンチャー｣の挑戦](https://toyokeizai.net/articles/-/379571)
@@ -97,12 +98,15 @@
 * [ 【日本経済を支える】建設産業だからこそデジタル化を～ANDPADが生み出す最効率（前） ]( https://www.data-max.co.jp/article/45727 )
 * [ 【日本経済を支える】建設産業だからこそデジタル化を～ANDPADが生み出す最効率（後） ]( https://www.data-max.co.jp/article/45751 )
 * [ 【アンドパッド 「ANDPAD HOUSE」完成】移動300時間と工期3ヵ月の短縮実証 ]( https://www.kensetsunews.com/web-kan/678291 )
+* [シリーズDラウンドにおいて海外機関投資家を中心に総額約122億円の資金調達を実施。同時に「ANDPAD Second Act」を公表。]( https://andpad.co.jp/news/1380/ )
+* [ 建設DXのアンドパッドが122億円調達、海外機関投資家から選ばれる理由とは ]( https://forbesjapan.com/articles/detail/50366 )
 
 ### その他チーム
 * [建築現場の課題をどう解決するか？ 建築現場のSaaSとデザインチームの哲学](https://uxmilk.jp/85449)
 * [ スタートから1年半経ってもなかなか進まないデザイン共通化  アンドパッド社が陥ったプロジェクトの落とし穴 ]( https://logmi.jp/tech/articles/326368 )
 * `PM前島`  [ 目指すは建設業界のDXプラットフォーム。利用社数13万突破のアンドパッドを進化させるPdMの決意。 ]( https://www.wantedly.com/companies/andpad/post_articles/404251 )  
 * `UI/UXデザイナーかわかみ`  [ デザイナーが変革に参加できる今が面白い！デザインシステム構築にも挑戦するUIデザイナーの視点。 ]( https://www.wantedly.com/companies/andpad/post_articles/408536 )  
+* [建築×テクノロジーに加わるなら、今が最高に面白い。アンドパッド・今井亮介が語る「コンテック」の現在と未来](https://blog.allstarsaas.com/posts/andpad-interview-20201211)
 
 ### 利用中ツール導入事例
 * [CircleCI　40分かかっていたテストを15分に アプリの改善リードタイムを大幅に短縮](https://circleci.com/ja/case-studies/andpad/)
