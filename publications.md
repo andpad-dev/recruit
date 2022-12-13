@@ -70,8 +70,6 @@
 * [開発組織について](https://tech.andpad.co.jp/entry/2021/04/16/104326)
 * [1年で社員数が倍増！フルリモートでもバリューを浸透させる、アンドパッドの組織作り](https://seleck.cc/1449)
 * [Ruby on Rails コミッターの松田 明氏が株式会社オクトの技術顧問に就任](https://lp.andpad.jp/157/)
-* [ 株式会社アンドパッドのオフィスと働く環境 ](  https://wall.ac/companies/andpad/office )
-* [ 株式会社アンドパッドのカルチャー ](  https://wall.ac/companies/andpad/culture )
 * [ ANDPADに学ぶ、デザインシステム導入の“落とし穴”。業界特化型SaaSの試行錯誤 ]( https://careerhack.en-japan.com/report/detail/1554 )
 * [ 「ITエンジニアがヤバいくらい本を買うようになった」――SaaS企業が書籍購入制度にメス、利用数14倍に 何を変えた？ ]( https://www.itmedia.co.jp/news/articles/2206/22/news058.html )
 * [ 87億調達のスタートアップで働くみんなのデスク環境 10万の建設事業者を支えるSaaSが生まれる働き方 ]( https://www.itmedia.co.jp/news/articles/2207/25/news049.html )
