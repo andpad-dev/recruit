@@ -2,13 +2,13 @@
 
 | | Mac-1 | Mac-2 | Windows |
 |----|----|----|----|
-|CPU|10コアCPU、24コアGPU（M1 Max）|10コアCPU、16コアGPU（M1 Pro）|クアッドコア 第 10 世代 Intel® Core™ i7-1065G7 プロセッサー|
+|CPU|10コアCPU、24コアGPU（M1 Max）|クアッド コア第 11 世代インテル® Core™ H35 i7-11370H7 プロセッサ|
 |メモリ|32GB|16GB|32GB|
-|ディスク|512GB SSD| 512GB SSD| 512GB SSD|
-|大きさ|14インチ|16インチ|13.5インチ|
+|ディスク|512GB SSD| 512GB SSD| 1TB SSD|
+|大きさ|14インチ|16インチ|14.4 インチ|
 |色|スペースグレイ|スペースグレイ| - |
 |キーボード| US or JIS | US or JIS | - |
-|シリーズ| MacBookPro | MacBookPro | Surface Book 3|
+|シリーズ| MacBookPro | MacBookPro | Surface |
 
 # 選び方
 
