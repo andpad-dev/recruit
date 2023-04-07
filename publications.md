@@ -48,18 +48,23 @@
 * `組織戦略責任者 米山`  [ エンジニア自ら「一緒に働きたいメンバー探し」を。 アンドパッドとLayerXが取り組むエンジニア採用と組織づくり ]( https://engineering-org.findy-teams.com/posts/andpad-layerx/ )
 *  `組織戦略責任者 米山×技術広報エンジニア鳩` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
 * `技術広報エンジニア鳩×土方` [ テックブログ運営チームに突撃取材！〜株式会社アンドパッド編〜 ]( https://job-draft.jp/articles/574 )
+* `技術広報エンジニア鳩` [ 各社の技術広報が明かす「RubyKaigiスポンサーの裏話」 〜運営ノウハウやコミュニティへの想い ]( https://gihyo.jp/article/2023/03/rubykaigi-sponsor-story-behind ) 
 * `テックリード金近`  [ANDPAD TECH TALK 第4回 - 創業メンバーから見た現在のアンドパッド](https://tech.andpad.co.jp/entry/2021/11/09/121000)
 *  `テックリード須貝`  [ データドリブン経営を支援！データ基盤チームを立ち上げたデータエンジニアが描く「建設業×データの民主化」の未来。 ]( https://www.wantedly.com/companies/andpad/post_articles/365538)  
 * `テックリード浅葉`  [ 【アンドパッド 浅葉氏】建設×DXを下支えする「仕組み作り」のプロフェショナル ]( https://note.com/forstartups_ep/n/n7d9522889dc7 )
 * `テックリード柴﨑` [ エンジニアの「生産性」どう測る？ 開発サイクル改善の次の一手に挑むアンドパッドの挑戦 ]( https://seleck.cc/1524 )
 * `テックリード柴﨑`  [ エンジニア組織の開発生産性を いかに定量化し、改善する？〜マネーフォワードとアンドパッドの EM・テックリードによる実践〜 ]( https://engineering-org.findy-teams.com/posts/andpad-moneyforward/ ) 
+* `テックリード柴崎` [ アンドパッドで活躍中の id:shiba_yu36 を訪問 | はてな卒業生訪問企画 [#2] ]( https://developer.hatenastaff.com/entry/2023/02/10/110000 )
+* `テックリード白土` [ なぜ今、リアーキテクティングが熱いのか？ 大規模Railsアプリのリファクタリング最前線で体感していること。 ](https://www.wantedly.com/companies/andpad/post_articles/471522) )
 * `ソフトウェアエンジニア工藤`  [第38回ASK「Androidエンジニアがアンドパッドに入社すると面白い理由」](https://note.com/andpad_hr/n/n108960a02663)
 * `ソフトウェアエンジニア工藤`  [Androidエンジニアからモバイルエンジニアへ。Flutter開発を拓いたエンジニアが抱くユーザー課題解決への想い。](https://www.wantedly.com/companies/andpad/post_articles/351596)
 * `ソフトウェアエンジニア伊藤`  [React Native経験者がFlutterをさわってみた](https://tech.andpad.co.jp/entry/2020/02/12/114953)
 * `ソフトウェアエンジニア藁谷`  [ 一生挑戦し続けるためにtoCから新たな領域へ。ユーザーが鮮明に見えるからtoBは面白い！ ]( https://www.wantedly.com/companies/andpad/post_articles/358823 ) 
 * `ソフトウェアエンジニア市川`  [ NuxtもNextもSvelteも推し！フロントエンドエンジニアがアンドパッドでみつけた意外な夢 ]( https://www.wantedly.com/companies/andpad/post_articles/362007)  
 * `ソフトウェアエンジニア松川` [ 大手SIerから急成長ベンチャーでAndroidをキャッチアップ｜開発を通して知的好奇心を満たせることが楽しい ]( https://www.geekly.co.jp/column/cat-geeklycolumn/custmer_interview_10/ )
+* `ソフトウェアエンジニア添田` [ Vertical SaaSでしか生み出せない価値がある。新規プロダクトと向き合い続けたエンジニアが歩んだ成長への道すじ ]( https://www.wantedly.com/companies/andpad/post_articles/480278 )
 * `市川×小泉×椎野`  [ アンドパッド若手エース3人はどんな新卒時代を過ごしたのか？]( https://www.wantedly.com/companies/andpad/post_articles/370591 )  
+* `田上×金近` [ エンジニアが「圧倒的にやりがいを感じられる」技術に妥協しない「ANDPAD図面」チームの魅力 ]( https://www.geekly.co.jp/column/cat-geeklycolumn/interview_conversation_andpad_zumen/ )
 * `CRE杉本（mayuzo）`  [これができたら一人前！アンドパッドCREへの期待値と業務での工夫](https://tech.andpad.co.jp/entry/2021/11/05/140000)
 * `CRE杉本（mayuzo）`  [ 次世代のエンジニア職だからできた「CRE」の定義。アンドパッドのCREは誰よりも「ANDPAD」を愛している。 ]( https://www.wantedly.com/companies/andpad/post_articles/370616 )  
 * `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )  
@@ -77,6 +82,7 @@
 * [ 『Vertical SaaS Study #1 アンドパッド,FiNC,ミクシィの新人若手エンジニア成長戦略』での登壇レポート ]( https://mixi-developers.mixi.co.jp/vertical-saas-study-1-93ddd6b34806 ) 
 * [ 日本CTO協会、エンジニアが選ぶ開発者体験が良いイメージのある企業ランキング30を発表 ]( https://prtimes.jp/main/html/rd/p/000000005.000081310.html ) 
 * [ エンジニア組織の生産性指標を基にした「Findy Team+ Award 2022」発表〜「生産性が高いエンジニア組織」等35社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000046.000045379.html )
+* [ 【8社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
 
 
 ### 事業
@@ -94,6 +100,7 @@
 * [ 【アンドパッド 「ANDPAD HOUSE」完成】移動300時間と工期3ヵ月の短縮実証 ]( https://www.kensetsunews.com/web-kan/678291 )
 * [シリーズDラウンドにおいて海外機関投資家を中心に総額約122億円の資金調達を実施。同時に「ANDPAD Second Act」を公表。]( https://andpad.co.jp/news/1380/ )
 * [ 建設DXのアンドパッドが122億円調達、海外機関投資家から選ばれる理由とは ]( https://forbesjapan.com/articles/detail/50366 )
+* [ アンドパッド・構造計画研究所・セーフィー他、建設DXを推進する「建設DX研究所」を設立 ]( https://iotnews.jp/digital-transformation/214487/ )
 
 ### その他チーム
 * [建築現場の課題をどう解決するか？ 建築現場のSaaSとデザインチームの哲学](https://uxmilk.jp/85449)
