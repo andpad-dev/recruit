@@ -9,13 +9,15 @@
 ### 自社運営メディア
 * [エンジニア採用サイト](https://engineer.andpad.co.jp/)
 * [アンドパッド採用サイト](https://andpad.co.jp/recruit/)
-* [2023新卒 新卒エンジニア採用サイト](https://engineer2023.andpad.co.jp/)
 * [TechBlog](https://tech.andpad.co.jp/)
 * [Speaker Deck](https://speakerdeck.com/andpad)
 * [YouTube](https://www.youtube.com/playlist?list=PLApU0jUJ3KKLCdyOTkoiC3ccUSGg9qQ-3)
 * [会社説明資料](https://speakerdeck.com/andpad_hr88/andpad-hui-she-shuo-ming-zi-liao)
 * [ANDPAD TECH TALK](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 * [エンジニアインタビュー](https://www.wantedly.com/stories/s/ANDPAD_Engineers)
+
+### 社員登壇情報
+* [アンドパッド｜ANDPAD connpassイベントページ](https://andpad.connpass.com/)
 
 ### 執筆記事・メンバーインタビュー
 * `CTO金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
@@ -24,13 +26,14 @@
 * `VPoT古橋（秒速）` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
 * `VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `フェロー柴田（hsbt）`  [ フェローに、Ruby コミッターの柴田 博志氏が就任 ]( https://andpad.co.jp/news/1623/ )
-* `VPoE下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
-* `VPoE下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
-* `VPoE下司`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
-* `VPoE下司` [ 「半径数メートルから幸せの連鎖を生み出す」アンドパッド VPoE 下司 宜治 氏の事業成長のための決断 ]( https://evange.jp/n/n9c3b10503acd )
-* `VPoE下司` [ アンドパッド×ベルフェイス×タイミー CTO・VPoE勉強会 ]( https://www.wantedly.com/companies/forstartups/post_articles/419125 )
-* `VPoE下司` [ 【スタートアップにおける良い開発者体験とは】ANDPADにおける開発者体験の真実。自走する企業文化はどうつくるべきか ]( https://levtech.jp/media/article/column/detail_232/ )
-* `VPoE下司` [ 急成長企業のCTO/VPoEが語る攻めと守りのバランス akippa tech park #1 ]( https://logmi.jp/tech/articles/328464 )
+* `CSO下司`  [【開発/プロダクト】面談、よくある質問大公開！](https://note.com/andpad_hr/n/n6c279cad0703)
+* `CSO下司` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
+* `CSO下司`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
+* `CSO下司` [ 「半径数メートルから幸せの連鎖を生み出す」アンドパッド VPoE 下司 宜治 氏の事業成長のための決断 ]( https://evange.jp/n/n9c3b10503acd )
+* `CSO下司` [ アンドパッド×ベルフェイス×タイミー CTO・VPoE勉強会 ]( https://www.wantedly.com/companies/forstartups/post_articles/419125 )
+* `CSO下司` [ 【スタートアップにおける良い開発者体験とは】ANDPADにおける開発者体験の真実。自走する企業文化はどうつくるべきか ]( https://levtech.jp/media/article/column/detail_232/ )
+* `CSO下司` [ 「技術的負債とはいったい何か？」4社のCTO・VPoEがその"定義"を徹底議論 ]( https://logmi.jp/tech/articles/328628 )
+* `CSO下司` [ 急成長企業のCTO/VPoEが語る攻めと守りのバランス akippa tech park #1 ]( https://logmi.jp/tech/articles/328464 )
 * `CDO山下`  [エンジニア的思考をもって、Vertical SaaSのトップ集団を駆け抜ける](https://engineer.andpad.co.jp/interviewone)
 * `CDO山下`  [テクノロジーで1日の業務を3時間削減。紙とFAXからの脱却を図る建築SaaSの挑戦](https://flxy.jp/article/8523)
 * `CDO山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
@@ -69,7 +72,6 @@
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 
 ### 文化・組織
-* [開発組織について](https://tech.andpad.co.jp/entry/2021/04/16/104326)
 * [1年で社員数が倍増！フルリモートでもバリューを浸透させる、アンドパッドの組織作り](https://seleck.cc/1449)
 * [Ruby on Rails コミッターの松田 明氏が株式会社オクトの技術顧問に就任](https://lp.andpad.jp/157/)
 * [ ANDPADに学ぶ、デザインシステム導入の“落とし穴”。業界特化型SaaSの試行錯誤 ]( https://careerhack.en-japan.com/report/detail/1554 )
@@ -83,6 +85,8 @@
 
 
 ### 事業
+* [ アンドパッド、日本スタートアップ大賞で国土交通大臣賞を受賞 ]( https://www.s-housing.jp/archives/314552 )
+* [ アンドパッド、クラウド型建設プロジェクト管理サービス「ANDPAD」の新機能「ANDPAD 3Dスキャン」β版をリリース ]( https://ascii.jp/elem/000/004/141/4141650/ )
 * [建設業界全体のデジタル化を推進する建設DXプラットフォーム「ANDPADアプリマーケット」を公開](https://andpad.co.jp/news/524/)
 * [J-Startup2021に選出されました](https://www.j-startup.go.jp/news/news_211020.html)
 * [世界有数の投資家も注目　アンドパッドが描く「インダストリークラウドの未来」](https://forbesjapan.com/articles/detail/39666)
@@ -100,6 +104,7 @@
 * [ アンドパッド・構造計画研究所・セーフィー他、建設DXを推進する「建設DX研究所」を設立 ]( https://iotnews.jp/digital-transformation/214487/ )
 
 ### その他チーム
+* [ アンドパッドのデザイナーについて紹介します - どんな環境なの？編 ]( https://tech.andpad.co.jp/entry/2023/06/28/100000 )
 * [建築現場の課題をどう解決するか？ 建築現場のSaaSとデザインチームの哲学](https://uxmilk.jp/85449)
 * [ スタートから1年半経ってもなかなか進まないデザイン共通化  アンドパッド社が陥ったプロジェクトの落とし穴 ]( https://logmi.jp/tech/articles/326368 )
 * `PM前島`  [ 目指すは建設業界のDXプラットフォーム。利用社数13万突破のアンドパッドを進化させるPdMの決意。 ]( https://www.wantedly.com/companies/andpad/post_articles/404251 )  
