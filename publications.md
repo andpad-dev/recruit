@@ -41,11 +41,12 @@
 * `エンジニア採用責任者 櫻井`  [ANDPAD TECH TALK 第2回 - アンドパッドにとってのEMとVPoEの違い](https://tech.andpad.co.jp/entry/2021/10/15/120000)
 * `米山`  [ ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」 ]( https://www.wantedly.com/companies/andpad/post_articles/391067 )  
 * `米山`  [ エンジニア自ら「一緒に働きたいメンバー探し」を。 アンドパッドとLayerXが取り組むエンジニア採用と組織づくり ]( https://engineering-org.findy-teams.com/posts/andpad-layerx/ )
-*  `米山×鳩` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
+*  `米山` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
 * `テックリード金近`  [ANDPAD TECH TALK 第4回 - 創業メンバーから見た現在のアンドパッド](https://tech.andpad.co.jp/entry/2021/11/09/121000)
 * `テックリード須貝`  [ データドリブン経営を支援！データ基盤チームを立ち上げたデータエンジニアが描く「建設業×データの民主化」の未来。 ]( https://www.wantedly.com/companies/andpad/post_articles/365538)  
 * `テックリード浅葉`  [ 【アンドパッド 浅葉氏】建設×DXを下支えする「仕組み作り」のプロフェショナル ]( https://note.com/forstartups_ep/n/n7d9522889dc7 )
 * `テックリード白土` [ なぜ今、リアーキテクティングが熱いのか？ 大規模Railsアプリのリファクタリング最前線で体感していること。 ](https://www.wantedly.com/companies/andpad/post_articles/471522) )
+* `テックリード白土` [なぜ、アンドパッドは最新のRuby/Railsにこだわるのか？アップデートを止めないための体制と仕組み](https://whatweuse.dev/article/andpad_update_ruby_rails)
 * `ソフトウェアエンジニア工藤`  [第38回ASK「Androidエンジニアがアンドパッドに入社すると面白い理由」](https://note.com/andpad_hr/n/n108960a02663)
 * `ソフトウェアエンジニア工藤`  [Androidエンジニアからモバイルエンジニアへ。Flutter開発を拓いたエンジニアが抱くユーザー課題解決への想い。](https://www.wantedly.com/companies/andpad/post_articles/351596)
 * `ソフトウェアエンジニア伊藤`  [React Native経験者がFlutterをさわってみた](https://tech.andpad.co.jp/entry/2020/02/12/114953)
@@ -73,7 +74,8 @@
 * [ 日本CTO協会、エンジニアが選ぶ開発者体験が良いイメージのある企業ランキング30を発表 ]( https://prtimes.jp/main/html/rd/p/000000005.000081310.html ) 
 * [ エンジニア組織の生産性指標を基にした「Findy Team+ Award 2022」発表〜「生産性が高いエンジニア組織」等35社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000046.000045379.html )
 * [ 【8社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
-
+* [ 海外拠点でプルリクエスト数が3倍に。アンドパッドベトナムの定量×定性コミュニケーションを通じた開発生産性向上へのトライ ]( https://blog.findy-team.io/posts/intereview_andpadvietnam/ )
+* [ エンジニア組織の開発生産性が優れた企業「Findy Team+ Award 2023」〜250の企業と2,500を超えるチームから38社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000068.000045379.html )
 
 ### 事業
 * [ アンドパッド、ゼネコン現場で施工BIMを共有する「ANDPAD BIM」β版をリリース ]( https://iotnews.jp/construction/230445/ )
