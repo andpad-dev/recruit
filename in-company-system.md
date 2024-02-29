@@ -44,6 +44,7 @@
   - [アンドパッド輪読会のふりかえり〜「アジャイルな見積もりと計画づくり」編〜](https://tech.andpad.co.jp/entry/2021/06/10/170000)
   - [Kubernetes 入門 - 自作の Docker イメージを minikube で動かす方法](https://tech.andpad.co.jp/entry/2021/02/18/170000)
   - [Web アプリケーションのパフォーマンス勉強会を開催しました！](https://tech.andpad.co.jp/entry/2021/02/10/170000)
+  - [アンドパッドの社内勉強会･読書会･イベントをすべて見せます！](https://speakerdeck.com/andpad/andopatudonoshe-nei-mian-qiang-hui-star-du-shu-hui-star-ibentowosubetejian-semasu)
 
 ## リリース祝（オンライン開催も可）
 
@@ -69,3 +70,4 @@
 ## 社内制度提案制度
 
 - 開発体験向上のためにあると良いなと思った制度を社員が提案できる
+  - 参考ブログ [楽しさ満載！レゴで学ぶスクラム研修](https://tech.andpad.co.jp/entry/2023/12/08/100000)
