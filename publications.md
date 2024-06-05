@@ -19,7 +19,6 @@
 * `テックリード金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
 * `VPoT古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
-* `VPoT古橋（秒速）` [創意工夫の余地は無限大。技術投資を惜しまないアンドパッドで働く面白さ](https://findy-code.io/pick-up/interviews/andpad-engineer2)
 * `VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `VPoT古橋（秒速）`  [ VPoT 秒速が語るアンドパッドの技術選定](https://www.wantedly.com/companies/andpad/post_articles/870205)
 * `フェロー柴田（hsbt）`  [ フェローに、Ruby コミッターの柴田 博志氏が就任 ]( https://andpad.co.jp/news/1623/ )
@@ -27,7 +26,6 @@
 * `執行役員 VPoT 佐藤（tricknotes）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `執行役員 VPoT 佐藤（tricknotes）`  [ tricknotes が語る「アンドパッドの開発風景」](https://www.wantedly.com/companies/andpad/post_articles/876402)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [エンジニア的思考をもって、Vertical SaaSのトップ集団を駆け抜ける](https://engineer.andpad.co.jp/interviewone)
-* `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [テクノロジーで1日の業務を3時間削減。紙とFAXからの脱却を図る建築SaaSの挑戦](https://flxy.jp/article/8523)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [【オンラインCTO対談 アンドパッド×キャディ】巨大市場に挑むテクノロジー組織のスケールアウト](https://www.youtube.com/watch?v=sNjtu9EHFwA)
 * ` 執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下×テックリード金近歩`    [日本にいながらグローバル開発を味わう醍醐味](https://www.wantedly.com/companies/andpad/post_articles/889060))
@@ -63,7 +61,7 @@
 * [ CEO、VPoT、HRBPが答えます！急拡大したSaaSエンジニア組織が辿った道筋と未来の組織戦略 ]( https://www.youtube.com/watch?v=BGa2T2VmR8s ) 
 * [ 日本CTO協会、エンジニアが選ぶ開発者体験が良いイメージのある企業ランキング30を発表 ]( https://prtimes.jp/main/html/rd/p/000000005.000081310.html ) 
 * [ エンジニア組織の生産性指標を基にした「Findy Team+ Award 2022」発表〜「生産性が高いエンジニア組織」等35社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000046.000045379.html )
-* [ 【8社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
+* [ 【7社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
 * [ 海外拠点でプルリクエスト数が3倍に。アンドパッドベトナムの定量×定性コミュニケーションを通じた開発生産性向上へのトライ ]( https://blog.findy-team.io/posts/intereview_andpadvietnam/ )
 * [ エンジニア組織の開発生産性が優れた企業「Findy Team+ Award 2023」〜250の企業と2,500を超えるチームから38社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000068.000045379.html )
 
@@ -99,7 +97,6 @@
 
 ### 利用中ツール導入事例
 * [CircleCI　40分かかっていたテストを15分に アプリの改善リードタイムを大幅に短縮](https://circleci.com/ja/case-studies/andpad/)
-* [「Autifyを導入しない選択肢がなくなった」クロスブラウザのテスト自動化88%実現までのプロセスとは？](https://autify.com/ja/stories/andpad)
 * [ 「エンジニア個人の振り返りや組織の課題発見に活用」 ]( https://engineering-org.findy-teams.com/posts/andpad-interview/ )
 * [ Slackを活用したクレディセゾンとアンドパッドの社内コミュニケーションとは ]( https://news.mynavi.jp/techplus/article/20220328-2303963/ )
 
