@@ -17,10 +17,10 @@
 
 ### 執筆記事・メンバーインタビュー
 * `テックリード金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
-* `VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
-* `VPoT古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
-* `VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
-* `VPoT古橋（秒速）`  [ VPoT 秒速が語るアンドパッドの技術選定](https://www.wantedly.com/companies/andpad/post_articles/870205)
+* `執行役員 VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
+* `執行役員 VPoT古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
+* `執行役員 VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
+* `執行役員 VPoT古橋（秒速）`  [ VPoT 秒速が語るアンドパッドの技術選定](https://www.wantedly.com/companies/andpad/post_articles/870205)
 * `フェロー柴田（hsbt）`  [ フェローに、Ruby コミッターの柴田 博志氏が就任 ]( https://andpad.co.jp/news/1623/ )
 * `フェロー柴田 / ydah`  [ RubyKaigi 2024 で登壇する hsbt と ydah に聞く Speaker になるまでの道のり](https://www.wantedly.com/companies/andpad/post_articles/900845)
 * `執行役員 VPoT 佐藤（tricknotes）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
@@ -49,8 +49,10 @@
 * `田上×金近` [ エンジニアが「圧倒的にやりがいを感じられる」技術に妥協しない「ANDPAD図面」チームの魅力 ]( https://www.geekly.co.jp/column/cat-geeklycolumn/interview_conversation_andpad_zumen/ )
 * `ソフトウェアエンジニア村田` [ 新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう ]( https://eh-career.com/engineerhub/entry/2023/04/18/093000 )
 * `CRE杉本（mayuzo）`  [ 次世代のエンジニア職だからできた「CRE」の定義。アンドパッドのCREは誰よりも「ANDPAD」を愛している。 ]( https://www.wantedly.com/companies/andpad/post_articles/370616 )  
-* `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )  
+* `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )
+* `データ部部長 土居`  [アンドパッドがリリースした業界待望のAI機能とは？元ソフトバンクの初代データスチュワードが仕掛けるデータイノベーション。](https://www.wantedly.com/companies/andpad/post_articles/524429))
 * `機械学習エンジニア 森`  [ ML エンジニアの森 直幸が AI 機能で大ヒットを飛ばしている背景](https://www.wantedly.com/companies/andpad/post_articles/891347)
+* `ソフトウェアエンジニア高橋 神戸`  [新卒 1 期生に聞く、プロダクトの成長と自分の成長を重ねるキャリア戦略](https://www.wantedly.com/companies/andpad/post_articles/916230)
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 
 ### 文化・組織
@@ -64,6 +66,8 @@
 * [ 【7社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
 * [ 海外拠点でプルリクエスト数が3倍に。アンドパッドベトナムの定量×定性コミュニケーションを通じた開発生産性向上へのトライ ]( https://blog.findy-team.io/posts/intereview_andpadvietnam/ )
 * [ エンジニア組織の開発生産性が優れた企業「Findy Team+ Award 2023」〜250の企業と2,500を超えるチームから38社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000068.000045379.html )
+* [ 爆速成長する ANDPAD受発注 開発チームにみる 1 → 10 と 10 → 100 フェーズの開発の違い]( https://www.wantedly.com/companies/andpad/post_articles/908712 )
+
 
 ### 事業
 * [【動画あり】建設業界の人手不足をDXで変革　起業家の挑戦](https://www3.nhk.or.jp/news/contents/ohabiz/articles/2024_0109.html)
@@ -93,10 +97,3 @@
 * [建築×テクノロジーに加わるなら、今が最高に面白い。アンドパッド・今井亮介が語る「コンテック」の現在と未来](https://blog.allstarsaas.com/posts/andpad-interview-20201211)
 * `代表 稲田` [ Forbes JAPAN「日本の起業家ランキング2023」にランクインした起業家たちの巨大産業DXへの挑戦と軌跡 ]( https://globis.jp/article/58147 )
 * `CFO荻野` [ 枯れることなく水が湧き続ける泉のように。オーナーシップを持ち、企業価値の向上に邁進する]( https://www.kandc.com/exe/candidate-interview/interview2/ )
-
-
-### 利用中ツール導入事例
-* [CircleCI　40分かかっていたテストを15分に アプリの改善リードタイムを大幅に短縮](https://circleci.com/ja/case-studies/andpad/)
-* [ 「エンジニア個人の振り返りや組織の課題発見に活用」 ]( https://engineering-org.findy-teams.com/posts/andpad-interview/ )
-* [ Slackを活用したクレディセゾンとアンドパッドの社内コミュニケーションとは ]( https://news.mynavi.jp/techplus/article/20220328-2303963/ )
-
