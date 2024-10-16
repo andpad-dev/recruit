@@ -48,11 +48,13 @@
 * `ソフトウェアエンジニア添田` [ Vertical SaaSでしか生み出せない価値がある。新規プロダクトと向き合い続けたエンジニアが歩んだ成長への道すじ ]( https://www.wantedly.com/companies/andpad/post_articles/480278 )  
 * `田上×金近` [ エンジニアが「圧倒的にやりがいを感じられる」技術に妥協しない「ANDPAD図面」チームの魅力 ]( https://www.geekly.co.jp/column/cat-geeklycolumn/interview_conversation_andpad_zumen/ )
 * `ソフトウェアエンジニア村田` [ 新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう ]( https://eh-career.com/engineerhub/entry/2023/04/18/093000 )
+* `ソフトウェアエンジニア西・髙木` [ iOSDC 2024 開催直前！ Swift 社内勉強会にみる Swift への熱い想い ](https://www.wantedly.com/companies/andpad/post_articles/920598 )
+* `ソフトウェアエンジニア橋詰・松川` [ DroidKaigi 2024 開催直前 アンドパッドらしい Android アプリ「オフライン対応」機能の開発自慢！ ]( https://www.wantedly.com/companies/andpad/post_articles/924032 )
+* `ソフトウェアエンジニア小泉` [ Vue Fes Japan 2024 開催直前！ ykoizumi0903 が語る Vue 推しの理由 ]( https://www.wantedly.com/companies/andpad/post_articles/930344 )
 * `CRE杉本（mayuzo）`  [ 次世代のエンジニア職だからできた「CRE」の定義。アンドパッドのCREは誰よりも「ANDPAD」を愛している。 ]( https://www.wantedly.com/companies/andpad/post_articles/370616 )  
 * `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )
 * `データ部部長 土居`  [アンドパッドがリリースした業界待望のAI機能とは？元ソフトバンクの初代データスチュワードが仕掛けるデータイノベーション。](https://www.wantedly.com/companies/andpad/post_articles/524429))
 * `機械学習エンジニア 森`  [ ML エンジニアの森 直幸が AI 機能で大ヒットを飛ばしている背景](https://www.wantedly.com/companies/andpad/post_articles/891347)
-* `ソフトウェアエンジニア高橋 神戸`  [新卒 1 期生に聞く、プロダクトの成長と自分の成長を重ねるキャリア戦略](https://www.wantedly.com/companies/andpad/post_articles/916230)
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 
 ### 文化・組織
@@ -70,6 +72,7 @@
 
 
 ### 事業
+* [2024年9月26日(木)より新テレビCMを放送開始 「ANDPAD請求管理」で経理業務をDX](https://andpad.co.jp/news/6389/)
 * [【動画あり】建設業界の人手不足をDXで変革　起業家の挑戦](https://www3.nhk.or.jp/news/contents/ohabiz/articles/2024_0109.html)
 * [株式会社コンベックス グループ会社化のお知らせ 及び金融機関から12億円の資金調達を実施](https://andpad.co.jp/news/4839/)
 * [ アンドパッド、ゼネコン現場で施工BIMを共有する「ANDPAD BIM」β版をリリース ]( https://iotnews.jp/construction/230445/ )
