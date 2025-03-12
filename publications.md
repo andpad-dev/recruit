@@ -85,7 +85,6 @@
 ## Recruting
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
 * `米山`  [ ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」 ]( https://www.wantedly.com/companies/andpad/post_articles/391067 )  
-* `米山`  [ エンジニア自ら「一緒に働きたいメンバー探し」を。 アンドパッドとLayerXが取り組むエンジニア採用と組織づくり ]( https://engineering-org.findy-teams.com/posts/andpad-layerx/ )
 *  `米山` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
 
 ### 文化・組織
