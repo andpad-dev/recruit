@@ -32,7 +32,6 @@
 ## dev
 * `テックリード金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `執行役員 VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://engineer-lab.findy-code.io/284km-andpad)
-* `執行役員 VPoT古橋（秒速）` [「エンジニア個人の振り返りや組織の課題発見に活用」株式会社アンドパッド様-Findy Teams活用事例インタビュー](https://engineering-org.findy-teams.com/posts/andpad-interview/)
 * `執行役員 VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `執行役員 VPoT古橋（秒速）`  [ VPoT 秒速が語るアンドパッドの技術選定](https://www.wantedly.com/companies/andpad/post_articles/870205)
 * `フェロー柴田（hsbt）`  [ フェローに、Ruby コミッターの柴田 博志氏が就任 ]( https://andpad.co.jp/news/1623/ )
@@ -95,7 +94,6 @@
 * [ 日本CTO協会、エンジニアが選ぶ開発者体験が良いイメージのある企業ランキング30を発表 ]( https://prtimes.jp/main/html/rd/p/000000005.000081310.html ) 
 * [ エンジニア組織の生産性指標を基にした「Findy Team+ Award 2022」発表〜「生産性が高いエンジニア組織」等35社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000046.000045379.html )
 * [ 【7社事例】「開発者体験（Developer Experience）」とは？定義と重要ポイント4つを解説 ]( https://seleck.cc/developer_experience )
-* [ 海外拠点でプルリクエスト数が3倍に。アンドパッドベトナムの定量×定性コミュニケーションを通じた開発生産性向上へのトライ ]( https://blog.findy-team.io/posts/intereview_andpadvietnam/ )
 * [ エンジニア組織の開発生産性が優れた企業「Findy Team+ Award 2023」〜250の企業と2,500を超えるチームから38社を選出〜 ]( https://prtimes.jp/main/html/rd/p/000000068.000045379.html )
 * [ 爆速成長する ANDPAD受発注 開発チームにみる 1 → 10 と 10 → 100 フェーズの開発の違い]( https://www.wantedly.com/companies/andpad/post_articles/908712 )
 
@@ -106,7 +104,6 @@
 * [株式会社コンベックス グループ会社化のお知らせ 及び金融機関から12億円の資金調達を実施](https://andpad.co.jp/news/4839/)
 * [ アンドパッド、ゼネコン現場で施工BIMを共有する「ANDPAD BIM」β版をリリース ]( https://iotnews.jp/construction/230445/ )
 * [建設業界全体のデジタル化を推進する建設DXプラットフォーム「ANDPADアプリマーケット」を公開](https://andpad.co.jp/news/524/)
-* [J-Startup2021に選出されました](https://www.j-startup.go.jp/news/news_211020.html)
 * [世界有数の投資家も注目　アンドパッドが描く「インダストリークラウドの未来」](https://forbesjapan.com/articles/detail/39666)
 * [「幸せを築く人を、幸せに」建築産業のDXを推進する、アンドパッドの思い](https://forbesjapan.com/articles/detail/36108)
 * [ユニコーンへ邁進！｢建設DXベンチャー｣の挑戦](https://toyokeizai.net/articles/-/379571)
