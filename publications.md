@@ -42,7 +42,7 @@
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [エンジニア的思考をもって、Vertical SaaSのトップ集団を駆け抜ける](https://engineer.andpad.co.jp/interviewone)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [【オンラインCTO対談 アンドパッド×キャディ】巨大市場に挑むテクノロジー組織のスケールアウト](https://www.youtube.com/watch?v=sNjtu9EHFwA)
-* ` 執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下×テックリード金近歩`    [日本にいながらグローバル開発を味わう醍醐味](https://www.wantedly.com/companies/andpad/post_articles/889060))
+* `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下×テックリード金近歩`    [日本にいながらグローバル開発を味わう醍醐味](https://www.wantedly.com/companies/andpad/post_articles/889060))
 * `組織開発部 部長 後藤 `  [ アンドパッドの急成長を支える開発組織とは](https://www.wantedly.com/companies/andpad/post_articles/897249)
 * `早田`  [建築業界を本気で変えたい。だから謙虚に学び続ける——建築SaaS「ANDPAD」のエンジニア組織](https://findy-code.io/pick-up/interviews/andpad-engineer)
 * `テックリードレオ`  [レオのリファラル入社エピソード ～シニアエンジニアの転職の進め方](https://www.wantedly.com/companies/andpad/post_articles/879710)
@@ -73,8 +73,8 @@
 
 ## UI/UXデザイナー
 * `かわかみ`[ ANDPADに学ぶ、デザインシステム導入の“落とし穴”。業界特化型SaaSの試行錯誤 ]( https://careerhack.en-japan.com/report/detail/1554 )
-*  `かわかみ`  [ デザイナーが変革に参加できる今が面白い！デザインシステム構築にも挑戦するUIデザイナーの視点。 ]( https://www.wantedly.com/companies/andpad/post_articles/408536 )  
-* `かわかみ`  [「プロダクトとユーザーをつなぐ」BtoB SaaSデザインの面白さ]( https://speakerdeck.com/sizucca/b2b-saas-design-andpad-20221126 )  
+* `かわかみ`  [ デザイナーが変革に参加できる今が面白い！デザインシステム構築にも挑戦するUIデザイナーの視点。 ]( https://www.wantedly.com/companies/andpad/post_articles/408536 )
+* `かわかみ`  [「プロダクトとユーザーをつなぐ」BtoB SaaSデザインの面白さ]( https://speakerdeck.com/sizucca/b2b-saas-design-andpad-20221126 )
 
 ## プロダクトマーケティング
 * `金城・白井`[ エンタープライズ企業のANDPAD導入に必要不可欠なシステム連携コンサルタントとは？ ]( https://www.wantedly.com/companies/andpad/post_articles/922380 )
@@ -84,8 +84,8 @@
 
 ## Recruting
 * `HR中野`  [ANDPAD TECH TALK 第1回 - ANDPAD TECH TALKはじめました！](https://tech.andpad.co.jp/entry/2021/10/01/180000)
-* `米山`  [ ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」 ]( https://www.wantedly.com/companies/andpad/post_articles/391067 )  
-*  `米山` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
+* `米山`  [ ビズリーチ、リクルート、LiB創業CTOを経験したBIZ✕TECHのエキスパートがアンドパッドで仕掛ける「組織戦略」 ]( https://www.wantedly.com/companies/andpad/post_articles/391067 )
+* `米山` [ 採用広報の加速でエントリー数が2倍に！ アンドパッドが語る共感採用の本質【Event Report】 ]( https://www.wantedly.com/hiringeek/interview/eventreport_20220629/ )
 
 ### 文化・組織
 * [1年で社員数が倍増！フルリモートでもバリューを浸透させる、アンドパッドの組織作り](https://seleck.cc/1449)
