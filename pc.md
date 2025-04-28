@@ -2,10 +2,10 @@
 
 | | Mac-1 | Mac-2 | Windows |
 |----|----|----|----|
-|CPU|10コアCPU、16コアGPU（M2 Pro）|12コアCPU、19コアGPU（M2 Pro）/10コアCPU、16コアGPU（M1 Pro）|インテル® Core™ i7相当|
-|メモリ|32GB|16GB|32GB|
-|ディスク|512GB SSD| 512GB SSD| 512GB〜1TB SSD|
-|大きさ|14インチ|16インチ|14〜16 インチ|
+|CPU|M4 Pro|M4|インテル® Core™ i7相当|
+|メモリ|24GB|32GB|32GB|
+|ディスク|512GB SSD| 1TB SSD| 512GB〜1TB SSD|
+|大きさ|14インチ|14インチ|14〜16 インチ|
 |色|スペースグレイ|スペースグレイ| - |
 |キーボード| US or JIS | US or JIS | JIS |
 |シリーズ| MacBookPro | MacBookPro | 在庫状況による |
