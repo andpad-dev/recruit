@@ -57,7 +57,6 @@
 * `ソフトウェアエンジニア松川` [ 大手SIerから急成長ベンチャーでAndroidをキャッチアップ｜開発を通して知的好奇心を満たせることが楽しい ]( https://www.geekly.co.jp/column/cat-geeklycolumn/custmer_interview_10/ )
 * `ソフトウェアエンジニア添田` [ Vertical SaaSでしか生み出せない価値がある。新規プロダクトと向き合い続けたエンジニアが歩んだ成長への道すじ ]( https://www.wantedly.com/companies/andpad/post_articles/480278 )  
 * `田上×金近` [ エンジニアが「圧倒的にやりがいを感じられる」技術に妥協しない「ANDPAD図面」チームの魅力 ]( https://www.geekly.co.jp/column/cat-geeklycolumn/interview_conversation_andpad_zumen/ )
-* `ソフトウェアエンジニア村田` [ 新しいNext.jsの入門 ─ App DirectoryによるWeb開発をハンズオンで理解しよう ]( https://eh-career.com/engineerhub/entry/2023/04/18/093000 )
 * `ソフトウェアエンジニア西・髙木` [ iOSDC 2024 開催直前！ Swift 社内勉強会にみる Swift への熱い想い ](https://www.wantedly.com/companies/andpad/post_articles/920598 )
 * `ソフトウェアエンジニア橋詰・松川` [ DroidKaigi 2024 開催直前 アンドパッドらしい Android アプリ「オフライン対応」機能の開発自慢！ ]( https://www.wantedly.com/companies/andpad/post_articles/924032 )
 * `ソフトウェアエンジニア小泉` [ Vue Fes Japan 2024 開催直前！ ykoizumi0903 が語る Vue 推しの理由 ]( https://www.wantedly.com/companies/andpad/post_articles/930344 )
@@ -66,9 +65,10 @@
 * `テックリード内山・EE部長 辻`  [ 爆速成長する ANDPAD受発注 開発チームにみる 1 → 10 と 10 → 100 フェーズの開発の違い]( https://www.wantedly.com/companies/andpad/post_articles/908712 )
 
 ## PdM
+* `執行役員 本部長 福田` [ アンドパッド福田さんに聞くバーティカルSaaSにおけるマルチプロダクト プロダクトマネージャーのキャリアラジオ ]( https://open.spotify.com/episode/26QgrvvpOoXbStexNxkmaA)
 * `甲斐` [ 爆速成長する ANDPAD受発注 開発チームにみる 1 → 10 と 10 → 100 フェーズの開発の違い]( https://www.wantedly.com/companies/andpad/post_articles/908712 )
 * `福田・柳川` [Vertical SaaS のプロダクトマネージャの仕事](https://www.wantedly.com/companies/andpad/post_articles/945894)
-* `前島` [目指すは建設業界のDXプラットフォーム。利用社数13万突破のアンドパッドを進化させるPdMの決意。](https://www.wantedly.com/companies/andpad/post_articles/404251)
+* `米山` [起業 CTO 経験もある PdM 米山が語る、アンドパッドで新規事業を立ち上げる面白さ](https://www.wantedly.com/companies/andpad/post_articles/988052)
 
 ## UI/UXデザイナー
 * `かわかみ`[ ANDPADに学ぶ、デザインシステム導入の“落とし穴”。業界特化型SaaSの試行錯誤 ]( https://careerhack.en-japan.com/report/detail/1554 )
