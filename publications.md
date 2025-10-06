@@ -22,11 +22,8 @@
 * [ANDPAD Advent Calendar 2024](https://qiita.com/advent-calendar/2024/andpad)
 
 ### カンファレンス
-* [RubyKaigi 2024 で登壇する hsbt と ydah に聞く Speaker になるまでの道のり](https://www.wantedly.com/companies/andpad/post_articles/900845)
-* [iOSDC 2024 開催直前！ Swift 社内勉強会にみる Swift への熱い想い](https://www.wantedly.com/companies/andpad/post_articles/920598)
-* [DroidKaigi 2024 開催直前 アンドパッドらしい Android アプリ「オフライン対応」機能の開発自慢！](https://www.wantedly.com/companies/andpad/post_articles/924032)
-* [Vue Fes Japan 2024 開催直前！ ykoizumi0903 が語る Vue 推しの理由](https://www.wantedly.com/companies/andpad/post_articles/930344)
-* [オーガナイザーの ぷぽ がオススメする Kaigi on Rails の楽しみ方](https://www.wantedly.com/companies/andpad/post_articles/931732)
+* [hasumikin と youchan 、シニアな Rubyist 二人がアンドパッドを選んだ理由](https://www.wantedly.com/companies/andpad/post_articles/965623)
+* [アンドパッドの Rails アプリケーションにおける技術課題と解決をチラ見せ !! Kaigi on Rails 2025 スペシャル対談](https://www.wantedly.com/companies/andpad/post_articles/1008905)
 
 ### 執筆記事・メンバーインタビュー
 ## dev
@@ -42,13 +39,13 @@
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [エンジニアが自立し、楽しく開発できる組織の実現には何が必要か？【デブサミ2019夏】](https://codezine.jp/article/detail/11644)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下`  [【オンラインCTO対談 アンドパッド×キャディ】巨大市場に挑むテクノロジー組織のスケールアウト](https://www.youtube.com/watch?v=sNjtu9EHFwA)
 * `執行役員 グローバル開発部部長 兼 ANDPAD Vietnam CTO 山下×テックリード金近歩`    [日本にいながらグローバル開発を味わう醍醐味](https://www.wantedly.com/companies/andpad/post_articles/889060))
-* `組織開発部 部長 後藤 `  [ アンドパッドの急成長を支える開発組織とは](https://www.wantedly.com/companies/andpad/post_articles/897249)
-* `早田`  [建築業界を本気で変えたい。だから謙虚に学び続ける——建築SaaS「ANDPAD」のエンジニア組織](https://findy-code.io/pick-up/interviews/andpad-engineer)
 * `テックリードレオ`  [レオのリファラル入社エピソード ～シニアエンジニアの転職の進め方](https://www.wantedly.com/companies/andpad/post_articles/879710)
 * `テックリード金近歩`  [ANDPAD TECH TALK 第4回 - 創業メンバーから見た現在のアンドパッド](https://tech.andpad.co.jp/entry/2021/11/09/121000)
 * `テックリード浅葉`  [ 【アンドパッド 浅葉氏】建設×DXを下支えする「仕組み作り」のプロフェショナル ]( https://note.com/forstartups_ep/n/n7d9522889dc7 )
 * `テックリード白土` [ なぜ今、リアーキテクティングが熱いのか？ 大規模Railsアプリのリファクタリング最前線で体感していること。 ](https://www.wantedly.com/companies/andpad/post_articles/471522) )
 * `テックリード白土` [なぜ、アンドパッドは最新のRuby/Railsにこだわるのか？アップデートを止めないための体制と仕組み](https://whatweuse.dev/article/andpad_update_ruby_rails)
+* `テックリード寺島・六角・小泉`  [不確実な Coding Agent とのアンドパッドのフロントエンドエンジニアたちの向き合い方](https://www.wantedly.com/companies/andpad/post_articles/1005583)
+* `テックリード小島・土屋`  [tenntenn さんが聞くアンドパッドの Go 言語現状報告](https://www.wantedly.com/companies/andpad/post_articles/955969)
 * `ソフトウェアエンジニア工藤`  [Androidエンジニアからモバイルエンジニアへ。Flutter開発を拓いたエンジニアが抱くユーザー課題解決への想い。](https://www.wantedly.com/companies/andpad/post_articles/351596)
 * `ソフトウェアエンジニア伊藤`  [React Native経験者がFlutterをさわってみた](https://tech.andpad.co.jp/entry/2020/02/12/114953)
 * `ソフトウェアエンジニア伊藤`  [SwiftUIやKMMの導入、海外メンバーとの協働も！アンドパッド初期メンiOSエンジニアが直面する次の課題は？](https://www.wantedly.com/companies/andpad/post_articles/499233)
@@ -56,7 +53,6 @@
 * `ソフトウェアエンジニア市川`  [ NuxtもNextもSvelteも推し！フロントエンドエンジニアがアンドパッドでみつけた意外な夢 ]( https://www.wantedly.com/companies/andpad/post_articles/362007)  
 * `ソフトウェアエンジニア松川` [ 大手SIerから急成長ベンチャーでAndroidをキャッチアップ｜開発を通して知的好奇心を満たせることが楽しい ]( https://www.geekly.co.jp/column/cat-geeklycolumn/custmer_interview_10/ )
 * `ソフトウェアエンジニア添田` [ Vertical SaaSでしか生み出せない価値がある。新規プロダクトと向き合い続けたエンジニアが歩んだ成長への道すじ ]( https://www.wantedly.com/companies/andpad/post_articles/480278 )  
-* `田上×金近` [ エンジニアが「圧倒的にやりがいを感じられる」技術に妥協しない「ANDPAD図面」チームの魅力 ]( https://www.geekly.co.jp/column/cat-geeklycolumn/interview_conversation_andpad_zumen/ )
 * `ソフトウェアエンジニア西・髙木` [ iOSDC 2024 開催直前！ Swift 社内勉強会にみる Swift への熱い想い ](https://www.wantedly.com/companies/andpad/post_articles/920598 )
 * `ソフトウェアエンジニア橋詰・松川` [ DroidKaigi 2024 開催直前 アンドパッドらしい Android アプリ「オフライン対応」機能の開発自慢！ ]( https://www.wantedly.com/companies/andpad/post_articles/924032 )
 * `ソフトウェアエンジニア小泉` [ Vue Fes Japan 2024 開催直前！ ykoizumi0903 が語る Vue 推しの理由 ]( https://www.wantedly.com/companies/andpad/post_articles/930344 )
