@@ -22,7 +22,7 @@
 * [ANDPAD Advent Calendar 2024](https://qiita.com/advent-calendar/2024/andpad)
 
 ### カンファレンス
-* [[hasumikin と youchan 、シニアな Rubyist 二人がアンドパッドを選んだ理由](https://www.wantedly.com/companies/andpad/post_articles/965623)
+* [hasumikin と youchan 、シニアな Rubyist 二人がアンドパッドを選んだ理由](https://www.wantedly.com/companies/andpad/post_articles/965623)
 * [アンドパッドの Rails アプリケーションにおける技術課題と解決をチラ見せ !! Kaigi on Rails 2025 スペシャル対談](https://www.wantedly.com/companies/andpad/post_articles/1008905)
 
 ### 執筆記事・メンバーインタビュー
