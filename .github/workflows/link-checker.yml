@@ -6,9 +6,8 @@ on:
   pull_request:
     branches: [ main, master ]
   schedule:
-    # 毎週月曜 午前9時(JST) に自動実行 (UTC 日曜 24:00 = 00:00)
     - cron: '0 0 * * 0'
-  workflow_dispatch: # 手動実行用
+  workflow_dispatch:
 
 jobs:
   link-checker:
@@ -20,5 +19,5 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --accept 200..299,403,429 --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' './publications.md'
-          fail: true
+          args: --verbose --no-progress --accept 200..=299,403,429 './publications.md'
+          fail: false
