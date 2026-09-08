@@ -1,0 +1,24 @@
+name: Check Links
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  schedule:
+    # 毎週月曜 午前9時(JST) に自動実行 (UTC 日曜 24:00 = 00:00)
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --verbose --no-progress './publications.md'
+          fail: true
