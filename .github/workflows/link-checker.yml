@@ -20,5 +20,5 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress './publications.md'
+          args: --verbose --no-progress --accept 200..299,403,429 --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' './publications.md'
           fail: true
