@@ -29,7 +29,7 @@
 ### 執筆記事・メンバーインタビュー
 ## dev
 * `テックリード金近`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
-* `執行役員 VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦]([https://engineer-lab.findy-code.io/284km-andpad](https://findy-code.io/media/articles/mychoice-284km-andpad))
+* `執行役員 VPoT古橋（秒速）` [RubyのOSS活動で感じた世界の熱量をエンジニア組織づくりへ。秒速さんの執行役員としての挑戦](https://findy-code.io/media/articles/mychoice-284km-andpad)
 * `執行役員 VPoT古橋（秒速）`  [ANDPAD TECH TALK 第3回 - CTOとテックリードが語る、アンドパッドのエンジニアの成長機会と未来](https://tech.andpad.co.jp/entry/2021/10/29/170000)
 * `執行役員 VPoT古橋（秒速）`  [ VPoT 秒速が語るアンドパッドの技術選定](https://www.wantedly.com/companies/andpad/post_articles/870205)
 * `フェロー柴田（hsbt）`  [ フェローに、Ruby コミッターの柴田 博志氏が就任 ]( https://andpad.co.jp/news/1623/ )
