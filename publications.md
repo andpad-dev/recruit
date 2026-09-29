@@ -61,6 +61,7 @@
 * `QAエンジニア安室`  [ 生物学博士からシステムの生態を進化させるQAエンジニアへ。「Autifyで自動テスト」「要件定義への参画」に挑む！ ]( https://www.wantedly.com/companies/andpad/post_articles/376197 )
 * `テックリード内山・EE部長 辻`  [ 爆速成長する ANDPAD受発注 開発チームにみる 1 → 10 と 10 → 100 フェーズの開発の違い]( https://www.wantedly.com/companies/andpad/post_articles/908712 )
 * `エンジニア近永` [Ruby コミッタの近永さんに聞く、Rubyコミュニティ活動とアンドパッド入社のきっかけ](https://www.wantedly.com/companies/andpad/post_articles/1020569)
+ * `サービスプラットフォーム部 部長 角井` [IC としてのスペシャリティ追求からマネジメントへ。新部長・角井 暖 が見据える、事業成長のフェーズに合わせて変化する技術基盤の役割](https://www.wantedly.com/companies/andpad/post_articles/1094602)
 
 ## PdM
 * `執行役員 本部長 福田` [ アンドパッド福田さんに聞くバーティカルSaaSにおけるマルチプロダクト プロダクトマネージャーのキャリアラジオ ]( https://open.spotify.com/episode/26QgrvvpOoXbStexNxkmaA)
