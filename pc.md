@@ -7,7 +7,7 @@
 |ディスク|512GB SSD| 1TB SSD| 512GB〜1TB SSD|
 |大きさ|14インチ|14インチ|14〜16 インチ|
 |色|スペースグレイ|スペースグレイ| - |
-|キーボード| US or JIS | US or JIS | JIS |
+|キーボード| US or JIS | US (JISは都度発注)| JIS |
 |シリーズ| MacBookPro | MacBookPro | 在庫状況による |
 
 # 選び方
